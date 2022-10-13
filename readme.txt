@@ -6,3 +6,5 @@ se iran actualizando utilizando branches dentro de git.
 
 Nombre del alumno: FRANCISCO HERNANDEZ ALVAREZ
 Fecha de hoy: 13/10/2022
+
+Cambios hecho desde github
